@@ -1,0 +1,4 @@
+This is a precourse work on html/css for a course called Microverse.
+Septemper 1st, 2020, 18:41 GMT -3 - By the end of this lesson, I should be able to create my own version or a google search page.
+September 1st, 2020, 20:45 GMT -3 - I misunderstood the lesson, I should only be able to create something that visually looks like the Google homepage, but doesn't have all of it's functionalities. I've managed to add the Google logo image and the top toolbar with CSS so far, only the searchbox left.
+September 1st, 2020, 23:12 GMT -3 - I managed to create the page, with something that the assigned task didn't require: a searchbox where you can type in. None of the links work, but it looks similar to the google.com homepage.
